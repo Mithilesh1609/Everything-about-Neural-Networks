@@ -5,5 +5,5 @@ Here you will get **Theoretical and Practical** implementation of the basic of *
 
 - First question come to our mind is **What is a neural network ?**
 
-- Neural Network is a collection of the neurons with 1 or many layers.
+  - Neural Network is a collection of the neurons with 1 or many layers.
 And each neuron is like a **function of input** which do some calculation on the input and give the output.
