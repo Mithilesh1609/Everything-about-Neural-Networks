@@ -1,4 +1,4 @@
-# Everything-about-Neural-Network
+# Everything-about-Neural-Networks
 Here you will get **Theoretical and Practical** implementation of the basic of **Neural Network to L-Layer neural network**
 
 ## Basic of Neural Network:
